@@ -1,2 +1,2 @@
 # shared-date-note
-Notes can be added to individual calendar days together
+Notes can be added to individual calendar days together. The idea started from the fact that family members want to take care of my grandmother, and it is necessary to enter in advance who will be good and when. A shared table could also be used for this, but it is not very transparent, especially in the phone view. Doodle would also be an option when who will take care of my mom, but with such a large family there would be too many lines and it would not be transparent.
